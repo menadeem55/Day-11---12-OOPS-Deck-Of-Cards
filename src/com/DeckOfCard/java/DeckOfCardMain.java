@@ -1,4 +1,4 @@
-package com.blabz.java;
+package com.DeckOfCard.java;
 
 import java.util.Scanner;
 
