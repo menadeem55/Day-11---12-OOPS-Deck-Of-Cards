@@ -20,5 +20,4 @@ public class DeckOfCardMain {
 		}
 		sc.close();
 	}
-
 }
